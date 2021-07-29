@@ -2124,14 +2124,14 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/GameSwapGroup",
+                href: "https://t.me/AntSwapToken",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/GameSwapFinance",
+        href: "https://twitter.com/RebalanceT",
     },
 ];
 var MENU_HEIGHT = 64;
